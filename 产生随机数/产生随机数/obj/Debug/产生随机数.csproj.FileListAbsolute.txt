@@ -1,0 +1,5 @@
+F:\c++\产生随机数\产生随机数\bin\Debug\产生随机数.exe.config
+F:\c++\产生随机数\产生随机数\bin\Debug\产生随机数.exe
+F:\c++\产生随机数\产生随机数\bin\Debug\产生随机数.pdb
+F:\c++\产生随机数\产生随机数\obj\Debug\产生随机数.exe
+F:\c++\产生随机数\产生随机数\obj\Debug\产生随机数.pdb

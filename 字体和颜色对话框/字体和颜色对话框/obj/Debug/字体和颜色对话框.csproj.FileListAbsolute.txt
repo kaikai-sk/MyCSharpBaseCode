@@ -1,0 +1,8 @@
+F:\c++\字体和颜色对话框\字体和颜色对话框\bin\Debug\字体和颜色对话框.exe.config
+F:\c++\字体和颜色对话框\字体和颜色对话框\bin\Debug\字体和颜色对话框.exe
+F:\c++\字体和颜色对话框\字体和颜色对话框\bin\Debug\字体和颜色对话框.pdb
+F:\c++\字体和颜色对话框\字体和颜色对话框\obj\Debug\字体和颜色对话框.Form1.resources
+F:\c++\字体和颜色对话框\字体和颜色对话框\obj\Debug\字体和颜色对话框.Properties.Resources.resources
+F:\c++\字体和颜色对话框\字体和颜色对话框\obj\Debug\字体和颜色对话框.csproj.GenerateResource.Cache
+F:\c++\字体和颜色对话框\字体和颜色对话框\obj\Debug\字体和颜色对话框.exe
+F:\c++\字体和颜色对话框\字体和颜色对话框\obj\Debug\字体和颜色对话框.pdb

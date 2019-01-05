@@ -1,0 +1,6 @@
+F:\c++\追加XML\追加XML\bin\Debug\追加XML.exe.config
+F:\c++\追加XML\追加XML\bin\Debug\追加XML.exe
+F:\c++\追加XML\追加XML\bin\Debug\追加XML.pdb
+F:\c++\追加XML\追加XML\obj\Debug\追加XML.csprojResolveAssemblyReference.cache
+F:\c++\追加XML\追加XML\obj\Debug\追加XML.exe
+F:\c++\追加XML\追加XML\obj\Debug\追加XML.pdb

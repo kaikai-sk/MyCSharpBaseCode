@@ -1,0 +1,8 @@
+F:\c++\PictureBox控件\PictureBox控件\bin\Debug\PictureBox控件.exe.config
+F:\c++\PictureBox控件\PictureBox控件\bin\Debug\PictureBox控件.exe
+F:\c++\PictureBox控件\PictureBox控件\bin\Debug\PictureBox控件.pdb
+F:\c++\PictureBox控件\PictureBox控件\obj\Debug\PictureBox控件.Form1.resources
+F:\c++\PictureBox控件\PictureBox控件\obj\Debug\PictureBox控件.Properties.Resources.resources
+F:\c++\PictureBox控件\PictureBox控件\obj\Debug\PictureBox控件.csproj.GenerateResource.Cache
+F:\c++\PictureBox控件\PictureBox控件\obj\Debug\PictureBox控件.exe
+F:\c++\PictureBox控件\PictureBox控件\obj\Debug\PictureBox控件.pdb

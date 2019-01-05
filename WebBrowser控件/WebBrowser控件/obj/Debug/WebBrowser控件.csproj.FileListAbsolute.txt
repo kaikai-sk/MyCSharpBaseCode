@@ -1,0 +1,9 @@
+F:\c++\WebBrowser控件\WebBrowser控件\bin\Debug\WebBrowser控件.exe.config
+F:\c++\WebBrowser控件\WebBrowser控件\bin\Debug\WebBrowser控件.exe
+F:\c++\WebBrowser控件\WebBrowser控件\bin\Debug\WebBrowser控件.pdb
+F:\c++\WebBrowser控件\WebBrowser控件\obj\Debug\WebBrowser控件.csprojResolveAssemblyReference.cache
+F:\c++\WebBrowser控件\WebBrowser控件\obj\Debug\WebBrowser控件.Form1.resources
+F:\c++\WebBrowser控件\WebBrowser控件\obj\Debug\WebBrowser控件.Properties.Resources.resources
+F:\c++\WebBrowser控件\WebBrowser控件\obj\Debug\WebBrowser控件.csproj.GenerateResource.Cache
+F:\c++\WebBrowser控件\WebBrowser控件\obj\Debug\WebBrowser控件.exe
+F:\c++\WebBrowser控件\WebBrowser控件\obj\Debug\WebBrowser控件.pdb

@@ -1,0 +1,6 @@
+F:\c++\进程类\进程类\bin\Debug\进程类.exe.config
+F:\c++\进程类\进程类\bin\Debug\进程类.exe
+F:\c++\进程类\进程类\bin\Debug\进程类.pdb
+F:\c++\进程类\进程类\obj\Debug\进程类.csprojResolveAssemblyReference.cache
+F:\c++\进程类\进程类\obj\Debug\进程类.exe
+F:\c++\进程类\进程类\obj\Debug\进程类.pdb

@@ -1,0 +1,10 @@
+F:\c++\窗体间的传值\窗体间的传值\bin\Debug\窗体间的传值.exe.config
+F:\c++\窗体间的传值\窗体间的传值\bin\Debug\窗体间的传值.exe
+F:\c++\窗体间的传值\窗体间的传值\bin\Debug\窗体间的传值.pdb
+F:\c++\窗体间的传值\窗体间的传值\obj\Debug\窗体间的传值.csprojResolveAssemblyReference.cache
+F:\c++\窗体间的传值\窗体间的传值\obj\Debug\窗体间的传值.Form1.resources
+F:\c++\窗体间的传值\窗体间的传值\obj\Debug\窗体间的传值.Form2.resources
+F:\c++\窗体间的传值\窗体间的传值\obj\Debug\窗体间的传值.Properties.Resources.resources
+F:\c++\窗体间的传值\窗体间的传值\obj\Debug\窗体间的传值.csproj.GenerateResource.Cache
+F:\c++\窗体间的传值\窗体间的传值\obj\Debug\窗体间的传值.exe
+F:\c++\窗体间的传值\窗体间的传值\obj\Debug\窗体间的传值.pdb

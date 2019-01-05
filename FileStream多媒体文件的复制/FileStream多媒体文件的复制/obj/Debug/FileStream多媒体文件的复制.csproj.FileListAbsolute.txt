@@ -1,0 +1,6 @@
+F:\c++\FileStream多媒体文件的复制\FileStream多媒体文件的复制\bin\Debug\FileStream多媒体文件的复制.exe.config
+F:\c++\FileStream多媒体文件的复制\FileStream多媒体文件的复制\bin\Debug\FileStream多媒体文件的复制.exe
+F:\c++\FileStream多媒体文件的复制\FileStream多媒体文件的复制\bin\Debug\FileStream多媒体文件的复制.pdb
+F:\c++\FileStream多媒体文件的复制\FileStream多媒体文件的复制\obj\Debug\FileStream多媒体文件的复制.csprojResolveAssemblyReference.cache
+F:\c++\FileStream多媒体文件的复制\FileStream多媒体文件的复制\obj\Debug\FileStream多媒体文件的复制.exe
+F:\c++\FileStream多媒体文件的复制\FileStream多媒体文件的复制\obj\Debug\FileStream多媒体文件的复制.pdb

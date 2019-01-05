@@ -1,0 +1,9 @@
+F:\c++\panel练习\panel练习\bin\Debug\panel练习.exe.config
+F:\c++\panel练习\panel练习\bin\Debug\panel练习.exe
+F:\c++\panel练习\panel练习\bin\Debug\panel练习.pdb
+F:\c++\panel练习\panel练习\obj\Debug\panel练习.csprojResolveAssemblyReference.cache
+F:\c++\panel练习\panel练习\obj\Debug\panel练习.Form1.resources
+F:\c++\panel练习\panel练习\obj\Debug\panel练习.Properties.Resources.resources
+F:\c++\panel练习\panel练习\obj\Debug\panel练习.csproj.GenerateResource.Cache
+F:\c++\panel练习\panel练习\obj\Debug\panel练习.exe
+F:\c++\panel练习\panel练习\obj\Debug\panel练习.pdb

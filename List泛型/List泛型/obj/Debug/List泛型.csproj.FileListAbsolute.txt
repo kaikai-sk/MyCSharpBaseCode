@@ -1,0 +1,5 @@
+F:\c++\List泛型\List泛型\bin\Debug\List泛型.exe.config
+F:\c++\List泛型\List泛型\bin\Debug\List泛型.exe
+F:\c++\List泛型\List泛型\bin\Debug\List泛型.pdb
+F:\c++\List泛型\List泛型\obj\Debug\List泛型.exe
+F:\c++\List泛型\List泛型\obj\Debug\List泛型.pdb

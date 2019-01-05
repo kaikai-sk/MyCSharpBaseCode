@@ -1,0 +1,6 @@
+F:\c++\枚举和int以及string类型间的转换\枚举和int以及string类型间的转换\bin\Debug\枚举和int以及string类型间的转换.exe.config
+F:\c++\枚举和int以及string类型间的转换\枚举和int以及string类型间的转换\bin\Debug\枚举和int以及string类型间的转换.exe
+F:\c++\枚举和int以及string类型间的转换\枚举和int以及string类型间的转换\bin\Debug\枚举和int以及string类型间的转换.pdb
+F:\c++\枚举和int以及string类型间的转换\枚举和int以及string类型间的转换\obj\Debug\枚举和int以及string类型间的转换.csprojResolveAssemblyReference.cache
+F:\c++\枚举和int以及string类型间的转换\枚举和int以及string类型间的转换\obj\Debug\枚举和int以及string类型间的转换.exe
+F:\c++\枚举和int以及string类型间的转换\枚举和int以及string类型间的转换\obj\Debug\枚举和int以及string类型间的转换.pdb

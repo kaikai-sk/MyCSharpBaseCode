@@ -1,0 +1,5 @@
+F:\c++\文件读写\文件读写\bin\Debug\文件读写.exe.config
+F:\c++\文件读写\文件读写\bin\Debug\文件读写.exe
+F:\c++\文件读写\文件读写\bin\Debug\文件读写.pdb
+F:\c++\文件读写\文件读写\obj\Debug\文件读写.exe
+F:\c++\文件读写\文件读写\obj\Debug\文件读写.pdb

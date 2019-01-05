@@ -1,0 +1,6 @@
+F:\c++\里氏转换\里氏转换\bin\Debug\里氏转换.exe.config
+F:\c++\里氏转换\里氏转换\bin\Debug\里氏转换.exe
+F:\c++\里氏转换\里氏转换\bin\Debug\里氏转换.pdb
+F:\c++\里氏转换\里氏转换\obj\Debug\里氏转换.csprojResolveAssemblyReference.cache
+F:\c++\里氏转换\里氏转换\obj\Debug\里氏转换.exe
+F:\c++\里氏转换\里氏转换\obj\Debug\里氏转换.pdb

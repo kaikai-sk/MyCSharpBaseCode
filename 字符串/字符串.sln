@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串", "字符串\字符串.csproj", "{B708632C-46E6-49AE-8968-4D34582C3A88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0505stringBuilder", "0505stringBuilder\0505stringBuilder.csproj", "{45C56983-5CE6-4579-9E4A-5517E18D6BE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B708632C-46E6-49AE-8968-4D34582C3A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B708632C-46E6-49AE-8968-4D34582C3A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B708632C-46E6-49AE-8968-4D34582C3A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B708632C-46E6-49AE-8968-4D34582C3A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45C56983-5CE6-4579-9E4A-5517E18D6BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C56983-5CE6-4579-9E4A-5517E18D6BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C56983-5CE6-4579-9E4A-5517E18D6BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C56983-5CE6-4579-9E4A-5517E18D6BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

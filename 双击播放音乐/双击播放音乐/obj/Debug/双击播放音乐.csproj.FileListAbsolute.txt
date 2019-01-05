@@ -1,0 +1,9 @@
+F:\c++\双击播放音乐\双击播放音乐\bin\Debug\双击播放音乐.exe.config
+F:\c++\双击播放音乐\双击播放音乐\bin\Debug\双击播放音乐.exe
+F:\c++\双击播放音乐\双击播放音乐\bin\Debug\双击播放音乐.pdb
+F:\c++\双击播放音乐\双击播放音乐\obj\Debug\双击播放音乐.csprojResolveAssemblyReference.cache
+F:\c++\双击播放音乐\双击播放音乐\obj\Debug\双击播放音乐.Form1.resources
+F:\c++\双击播放音乐\双击播放音乐\obj\Debug\双击播放音乐.Properties.Resources.resources
+F:\c++\双击播放音乐\双击播放音乐\obj\Debug\双击播放音乐.csproj.GenerateResource.Cache
+F:\c++\双击播放音乐\双击播放音乐\obj\Debug\双击播放音乐.exe
+F:\c++\双击播放音乐\双击播放音乐\obj\Debug\双击播放音乐.pdb

@@ -1,0 +1,6 @@
+F:\c++\电脑_U盘_移动硬盘_MP3\电脑_U盘_移动硬盘_MP3\bin\Debug\电脑_U盘_移动硬盘_MP3.exe.config
+F:\c++\电脑_U盘_移动硬盘_MP3\电脑_U盘_移动硬盘_MP3\bin\Debug\电脑_U盘_移动硬盘_MP3.exe
+F:\c++\电脑_U盘_移动硬盘_MP3\电脑_U盘_移动硬盘_MP3\bin\Debug\电脑_U盘_移动硬盘_MP3.pdb
+F:\c++\电脑_U盘_移动硬盘_MP3\电脑_U盘_移动硬盘_MP3\obj\Debug\电脑_U盘_移动硬盘_MP3.csprojResolveAssemblyReference.cache
+F:\c++\电脑_U盘_移动硬盘_MP3\电脑_U盘_移动硬盘_MP3\obj\Debug\电脑_U盘_移动硬盘_MP3.exe
+F:\c++\电脑_U盘_移动硬盘_MP3\电脑_U盘_移动硬盘_MP3\obj\Debug\电脑_U盘_移动硬盘_MP3.pdb

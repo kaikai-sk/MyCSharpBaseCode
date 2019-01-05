@@ -1,0 +1,5 @@
+F:\c++\params可变参数\params可变参数\bin\Debug\params可变参数.exe.config
+F:\c++\params可变参数\params可变参数\bin\Debug\params可变参数.exe
+F:\c++\params可变参数\params可变参数\bin\Debug\params可变参数.pdb
+F:\c++\params可变参数\params可变参数\obj\Debug\params可变参数.exe
+F:\c++\params可变参数\params可变参数\obj\Debug\params可变参数.pdb

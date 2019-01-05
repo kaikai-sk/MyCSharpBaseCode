@@ -1,0 +1,5 @@
+F:\c++\多播委托\多播委托\bin\Debug\多播委托.exe.config
+F:\c++\多播委托\多播委托\bin\Debug\多播委托.exe
+F:\c++\多播委托\多播委托\bin\Debug\多播委托.pdb
+F:\c++\多播委托\多播委托\obj\Debug\多播委托.exe
+F:\c++\多播委托\多播委托\obj\Debug\多播委托.pdb

@@ -1,0 +1,5 @@
+F:\c++\三元表达式\三元表达式\bin\Debug\三元表达式.exe.config
+F:\c++\三元表达式\三元表达式\bin\Debug\三元表达式.exe
+F:\c++\三元表达式\三元表达式\bin\Debug\三元表达式.pdb
+F:\c++\三元表达式\三元表达式\obj\Debug\三元表达式.exe
+F:\c++\三元表达式\三元表达式\obj\Debug\三元表达式.pdb

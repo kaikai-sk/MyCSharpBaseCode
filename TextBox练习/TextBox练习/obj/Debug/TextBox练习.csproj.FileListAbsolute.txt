@@ -1,0 +1,9 @@
+F:\c++\TextBox练习\TextBox练习\bin\Debug\TextBox练习.exe.config
+F:\c++\TextBox练习\TextBox练习\bin\Debug\TextBox练习.exe
+F:\c++\TextBox练习\TextBox练习\bin\Debug\TextBox练习.pdb
+F:\c++\TextBox练习\TextBox练习\obj\Debug\TextBox练习.Form1.resources
+F:\c++\TextBox练习\TextBox练习\obj\Debug\TextBox练习.Properties.Resources.resources
+F:\c++\TextBox练习\TextBox练习\obj\Debug\TextBox练习.csproj.GenerateResource.Cache
+F:\c++\TextBox练习\TextBox练习\obj\Debug\TextBox练习.exe
+F:\c++\TextBox练习\TextBox练习\obj\Debug\TextBox练习.pdb
+F:\c++\TextBox练习\TextBox练习\obj\Debug\TextBox练习.csprojResolveAssemblyReference.cache

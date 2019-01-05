@@ -1,0 +1,6 @@
+F:\c++\创建XML\创建带属性的XML文件\bin\Debug\创建带属性的XML文件.exe.config
+F:\c++\创建XML\创建带属性的XML文件\bin\Debug\创建带属性的XML文件.exe
+F:\c++\创建XML\创建带属性的XML文件\bin\Debug\创建带属性的XML文件.pdb
+F:\c++\创建XML\创建带属性的XML文件\obj\Debug\创建带属性的XML文件.csprojResolveAssemblyReference.cache
+F:\c++\创建XML\创建带属性的XML文件\obj\Debug\创建带属性的XML文件.exe
+F:\c++\创建XML\创建带属性的XML文件\obj\Debug\创建带属性的XML文件.pdb

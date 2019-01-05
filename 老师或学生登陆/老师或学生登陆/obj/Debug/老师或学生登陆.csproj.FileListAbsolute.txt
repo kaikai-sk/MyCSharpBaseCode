@@ -1,0 +1,9 @@
+F:\c++\老师或学生登陆\老师或学生登陆\bin\Debug\老师或学生登陆.exe.config
+F:\c++\老师或学生登陆\老师或学生登陆\bin\Debug\老师或学生登陆.exe
+F:\c++\老师或学生登陆\老师或学生登陆\bin\Debug\老师或学生登陆.pdb
+F:\c++\老师或学生登陆\老师或学生登陆\obj\Debug\老师或学生登陆.csprojResolveAssemblyReference.cache
+F:\c++\老师或学生登陆\老师或学生登陆\obj\Debug\老师或学生登陆.Form1.resources
+F:\c++\老师或学生登陆\老师或学生登陆\obj\Debug\老师或学生登陆.Properties.Resources.resources
+F:\c++\老师或学生登陆\老师或学生登陆\obj\Debug\老师或学生登陆.csproj.GenerateResource.Cache
+F:\c++\老师或学生登陆\老师或学生登陆\obj\Debug\老师或学生登陆.exe
+F:\c++\老师或学生登陆\老师或学生登陆\obj\Debug\老师或学生登陆.pdb

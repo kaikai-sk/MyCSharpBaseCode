@@ -1,0 +1,8 @@
+F:\c++\PictureBox和Timer的练习\PictureBox和Timer的练习\bin\Debug\PictureBox和Timer的练习.exe.config
+F:\c++\PictureBox和Timer的练习\PictureBox和Timer的练习\obj\Debug\PictureBox和Timer的练习.Form1.resources
+F:\c++\PictureBox和Timer的练习\PictureBox和Timer的练习\obj\Debug\PictureBox和Timer的练习.Properties.Resources.resources
+F:\c++\PictureBox和Timer的练习\PictureBox和Timer的练习\obj\Debug\PictureBox和Timer的练习.csproj.GenerateResource.Cache
+F:\c++\PictureBox和Timer的练习\PictureBox和Timer的练习\bin\Debug\PictureBox和Timer的练习.exe
+F:\c++\PictureBox和Timer的练习\PictureBox和Timer的练习\bin\Debug\PictureBox和Timer的练习.pdb
+F:\c++\PictureBox和Timer的练习\PictureBox和Timer的练习\obj\Debug\PictureBox和Timer的练习.exe
+F:\c++\PictureBox和Timer的练习\PictureBox和Timer的练习\obj\Debug\PictureBox和Timer的练习.pdb

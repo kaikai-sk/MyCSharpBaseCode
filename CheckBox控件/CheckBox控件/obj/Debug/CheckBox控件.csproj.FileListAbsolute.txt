@@ -1,0 +1,9 @@
+F:\c++\CheckBox控件\CheckBox控件\bin\Debug\CheckBox控件.exe.config
+F:\c++\CheckBox控件\CheckBox控件\bin\Debug\CheckBox控件.exe
+F:\c++\CheckBox控件\CheckBox控件\bin\Debug\CheckBox控件.pdb
+F:\c++\CheckBox控件\CheckBox控件\obj\Debug\CheckBox控件.csprojResolveAssemblyReference.cache
+F:\c++\CheckBox控件\CheckBox控件\obj\Debug\CheckBox控件.Form1.resources
+F:\c++\CheckBox控件\CheckBox控件\obj\Debug\CheckBox控件.Properties.Resources.resources
+F:\c++\CheckBox控件\CheckBox控件\obj\Debug\CheckBox控件.csproj.GenerateResource.Cache
+F:\c++\CheckBox控件\CheckBox控件\obj\Debug\CheckBox控件.exe
+F:\c++\CheckBox控件\CheckBox控件\obj\Debug\CheckBox控件.pdb

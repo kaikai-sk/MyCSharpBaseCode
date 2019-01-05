@@ -1,0 +1,9 @@
+F:\c++\MDI窗体设计\MDI窗体设计\bin\Debug\MDI窗体设计.exe.config
+F:\c++\MDI窗体设计\MDI窗体设计\bin\Debug\MDI窗体设计.exe
+F:\c++\MDI窗体设计\MDI窗体设计\bin\Debug\MDI窗体设计.pdb
+F:\c++\MDI窗体设计\MDI窗体设计\obj\Debug\MDI窗体设计.csprojResolveAssemblyReference.cache
+F:\c++\MDI窗体设计\MDI窗体设计\obj\Debug\MDI窗体设计.Form1.resources
+F:\c++\MDI窗体设计\MDI窗体设计\obj\Debug\MDI窗体设计.Properties.Resources.resources
+F:\c++\MDI窗体设计\MDI窗体设计\obj\Debug\MDI窗体设计.csproj.GenerateResource.Cache
+F:\c++\MDI窗体设计\MDI窗体设计\obj\Debug\MDI窗体设计.exe
+F:\c++\MDI窗体设计\MDI窗体设计\obj\Debug\MDI窗体设计.pdb

@@ -1,0 +1,6 @@
+F:\c++\out参数的使用\out参数的使用\bin\Debug\out参数的使用.exe.config
+F:\c++\out参数的使用\out参数的使用\bin\Debug\out参数的使用.exe
+F:\c++\out参数的使用\out参数的使用\bin\Debug\out参数的使用.pdb
+F:\c++\out参数的使用\out参数的使用\obj\Debug\out参数的使用.csprojResolveAssemblyReference.cache
+F:\c++\out参数的使用\out参数的使用\obj\Debug\out参数的使用.exe
+F:\c++\out参数的使用\out参数的使用\obj\Debug\out参数的使用.pdb

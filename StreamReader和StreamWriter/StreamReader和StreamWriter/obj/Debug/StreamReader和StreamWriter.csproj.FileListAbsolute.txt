@@ -1,0 +1,5 @@
+F:\c++\StreamReader和StreamWriter\StreamReader和StreamWriter\bin\Debug\StreamReader和StreamWriter.exe.config
+F:\c++\StreamReader和StreamWriter\StreamReader和StreamWriter\bin\Debug\StreamReader和StreamWriter.exe
+F:\c++\StreamReader和StreamWriter\StreamReader和StreamWriter\bin\Debug\StreamReader和StreamWriter.pdb
+F:\c++\StreamReader和StreamWriter\StreamReader和StreamWriter\obj\Debug\StreamReader和StreamWriter.exe
+F:\c++\StreamReader和StreamWriter\StreamReader和StreamWriter\obj\Debug\StreamReader和StreamWriter.pdb

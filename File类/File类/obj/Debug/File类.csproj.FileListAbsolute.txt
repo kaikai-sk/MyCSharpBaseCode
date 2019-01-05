@@ -1,0 +1,5 @@
+F:\c++\File类\File类\bin\Debug\File类.exe.config
+F:\c++\File类\File类\bin\Debug\File类.exe
+F:\c++\File类\File类\bin\Debug\File类.pdb
+F:\c++\File类\File类\obj\Debug\File类.exe
+F:\c++\File类\File类\obj\Debug\File类.pdb

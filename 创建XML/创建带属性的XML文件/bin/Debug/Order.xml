@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Order>
+  <CustomerName>张三</CustomerName>
+  <CustomerNumber>1000000001</CustomerNumber>
+  <Items>
+    <OrderItem Name="码表" Count="10" />
+  </Items>
+</Order>

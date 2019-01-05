@@ -1,0 +1,5 @@
+F:\c++\多线程\多线程\bin\Debug\多线程.exe.config
+F:\c++\多线程\多线程\bin\Debug\多线程.exe
+F:\c++\多线程\多线程\bin\Debug\多线程.pdb
+F:\c++\多线程\多线程\obj\Debug\多线程.exe
+F:\c++\多线程\多线程\obj\Debug\多线程.pdb

@@ -1,0 +1,8 @@
+F:\c++\DoYouLoveMe\DoYouLoveMe\bin\Debug\DoYouLoveMe.exe.config
+F:\c++\DoYouLoveMe\DoYouLoveMe\bin\Debug\DoYouLoveMe.exe
+F:\c++\DoYouLoveMe\DoYouLoveMe\bin\Debug\DoYouLoveMe.pdb
+F:\c++\DoYouLoveMe\DoYouLoveMe\obj\Debug\DoYouLoveMe.Form1.resources
+F:\c++\DoYouLoveMe\DoYouLoveMe\obj\Debug\DoYouLoveMe.Properties.Resources.resources
+F:\c++\DoYouLoveMe\DoYouLoveMe\obj\Debug\DoYouLoveMe.csproj.GenerateResource.Cache
+F:\c++\DoYouLoveMe\DoYouLoveMe\obj\Debug\DoYouLoveMe.exe
+F:\c++\DoYouLoveMe\DoYouLoveMe\obj\Debug\DoYouLoveMe.pdb

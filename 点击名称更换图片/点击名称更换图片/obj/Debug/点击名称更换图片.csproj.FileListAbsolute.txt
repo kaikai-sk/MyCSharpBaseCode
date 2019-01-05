@@ -1,0 +1,9 @@
+F:\c++\点击名称更换图片\点击名称更换图片\bin\Debug\点击名称更换图片.exe.config
+F:\c++\点击名称更换图片\点击名称更换图片\bin\Debug\点击名称更换图片.exe
+F:\c++\点击名称更换图片\点击名称更换图片\bin\Debug\点击名称更换图片.pdb
+F:\c++\点击名称更换图片\点击名称更换图片\obj\Debug\点击名称更换图片.csprojResolveAssemblyReference.cache
+F:\c++\点击名称更换图片\点击名称更换图片\obj\Debug\点击名称更换图片.Form1.resources
+F:\c++\点击名称更换图片\点击名称更换图片\obj\Debug\点击名称更换图片.Properties.Resources.resources
+F:\c++\点击名称更换图片\点击名称更换图片\obj\Debug\点击名称更换图片.csproj.GenerateResource.Cache
+F:\c++\点击名称更换图片\点击名称更换图片\obj\Debug\点击名称更换图片.exe
+F:\c++\点击名称更换图片\点击名称更换图片\obj\Debug\点击名称更换图片.pdb

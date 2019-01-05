@@ -1,0 +1,9 @@
+F:\c++\跑马灯\跑马灯\bin\Debug\跑马灯.exe.config
+F:\c++\跑马灯\跑马灯\bin\Debug\跑马灯.exe
+F:\c++\跑马灯\跑马灯\bin\Debug\跑马灯.pdb
+F:\c++\跑马灯\跑马灯\obj\Debug\跑马灯.csprojResolveAssemblyReference.cache
+F:\c++\跑马灯\跑马灯\obj\Debug\跑马灯.Form1.resources
+F:\c++\跑马灯\跑马灯\obj\Debug\跑马灯.Properties.Resources.resources
+F:\c++\跑马灯\跑马灯\obj\Debug\跑马灯.csproj.GenerateResource.Cache
+F:\c++\跑马灯\跑马灯\obj\Debug\跑马灯.exe
+F:\c++\跑马灯\跑马灯\obj\Debug\跑马灯.pdb

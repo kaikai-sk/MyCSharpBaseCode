@@ -1,0 +1,6 @@
+F:\c++\接口\接口\bin\Debug\接口.exe.config
+F:\c++\接口\接口\bin\Debug\接口.exe
+F:\c++\接口\接口\bin\Debug\接口.pdb
+F:\c++\接口\接口\obj\Debug\接口.csprojResolveAssemblyReference.cache
+F:\c++\接口\接口\obj\Debug\接口.exe
+F:\c++\接口\接口\obj\Debug\接口.pdb

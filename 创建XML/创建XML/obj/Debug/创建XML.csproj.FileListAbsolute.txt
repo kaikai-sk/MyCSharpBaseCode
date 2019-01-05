@@ -1,0 +1,6 @@
+F:\c++\创建XML\创建XML\bin\Debug\创建XML.exe.config
+F:\c++\创建XML\创建XML\bin\Debug\创建XML.exe
+F:\c++\创建XML\创建XML\bin\Debug\创建XML.pdb
+F:\c++\创建XML\创建XML\obj\Debug\创建XML.csprojResolveAssemblyReference.cache
+F:\c++\创建XML\创建XML\obj\Debug\创建XML.exe
+F:\c++\创建XML\创建XML\obj\Debug\创建XML.pdb

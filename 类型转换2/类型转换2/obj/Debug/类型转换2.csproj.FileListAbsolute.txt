@@ -1,0 +1,6 @@
+F:\c++\类型转换2\类型转换2\bin\Debug\类型转换2.exe.config
+F:\c++\类型转换2\类型转换2\bin\Debug\类型转换2.exe
+F:\c++\类型转换2\类型转换2\bin\Debug\类型转换2.pdb
+F:\c++\类型转换2\类型转换2\obj\Debug\类型转换2.csprojResolveAssemblyReference.cache
+F:\c++\类型转换2\类型转换2\obj\Debug\类型转换2.exe
+F:\c++\类型转换2\类型转换2\obj\Debug\类型转换2.pdb

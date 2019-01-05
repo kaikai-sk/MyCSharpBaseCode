@@ -1,0 +1,9 @@
+F:\c++\线程窗体\线程窗体\bin\Debug\线程窗体.exe.config
+F:\c++\线程窗体\线程窗体\bin\Debug\线程窗体.exe
+F:\c++\线程窗体\线程窗体\bin\Debug\线程窗体.pdb
+F:\c++\线程窗体\线程窗体\obj\Debug\线程窗体.csprojResolveAssemblyReference.cache
+F:\c++\线程窗体\线程窗体\obj\Debug\线程窗体.Form1.resources
+F:\c++\线程窗体\线程窗体\obj\Debug\线程窗体.Properties.Resources.resources
+F:\c++\线程窗体\线程窗体\obj\Debug\线程窗体.csproj.GenerateResource.Cache
+F:\c++\线程窗体\线程窗体\obj\Debug\线程窗体.exe
+F:\c++\线程窗体\线程窗体\obj\Debug\线程窗体.pdb

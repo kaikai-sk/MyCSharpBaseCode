@@ -1,0 +1,6 @@
+F:\c++\泛型委托\泛型委托\bin\Debug\泛型委托.exe.config
+F:\c++\泛型委托\泛型委托\bin\Debug\泛型委托.exe
+F:\c++\泛型委托\泛型委托\bin\Debug\泛型委托.pdb
+F:\c++\泛型委托\泛型委托\obj\Debug\泛型委托.csprojResolveAssemblyReference.cache
+F:\c++\泛型委托\泛型委托\obj\Debug\泛型委托.exe
+F:\c++\泛型委托\泛型委托\obj\Debug\泛型委托.pdb

@@ -1,0 +1,6 @@
+F:\c++\FileStream读写文件\FileStream读写文件\bin\Debug\FileStream读写文件.exe.config
+F:\c++\FileStream读写文件\FileStream读写文件\obj\Debug\FileStream读写文件.csprojResolveAssemblyReference.cache
+F:\c++\FileStream读写文件\FileStream读写文件\bin\Debug\FileStream读写文件.exe
+F:\c++\FileStream读写文件\FileStream读写文件\bin\Debug\FileStream读写文件.pdb
+F:\c++\FileStream读写文件\FileStream读写文件\obj\Debug\FileStream读写文件.exe
+F:\c++\FileStream读写文件\FileStream读写文件\obj\Debug\FileStream读写文件.pdb

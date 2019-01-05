@@ -1,0 +1,6 @@
+F:\c++\MyFirstDemo\MyFirstDemo\bin\Debug\MyFirstDemo.exe.config
+F:\c++\MyFirstDemo\MyFirstDemo\bin\Debug\MyFirstDemo.exe
+F:\c++\MyFirstDemo\MyFirstDemo\bin\Debug\MyFirstDemo.pdb
+F:\c++\MyFirstDemo\MyFirstDemo\obj\Debug\MyFirstDemo.csprojResolveAssemblyReference.cache
+F:\c++\MyFirstDemo\MyFirstDemo\obj\Debug\MyFirstDemo.exe
+F:\c++\MyFirstDemo\MyFirstDemo\obj\Debug\MyFirstDemo.pdb

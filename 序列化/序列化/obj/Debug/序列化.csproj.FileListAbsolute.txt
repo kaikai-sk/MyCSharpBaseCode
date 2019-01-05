@@ -1,0 +1,6 @@
+F:\c++\序列化\序列化\bin\Debug\序列化.exe.config
+F:\c++\序列化\序列化\bin\Debug\序列化.exe
+F:\c++\序列化\序列化\bin\Debug\序列化.pdb
+F:\c++\序列化\序列化\obj\Debug\序列化.csprojResolveAssemblyReference.cache
+F:\c++\序列化\序列化\obj\Debug\序列化.exe
+F:\c++\序列化\序列化\obj\Debug\序列化.pdb

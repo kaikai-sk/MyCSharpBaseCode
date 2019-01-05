@@ -1,0 +1,6 @@
+F:\c++\占位符\占位符\bin\Debug\占位符.exe.config
+F:\c++\占位符\占位符\bin\Debug\占位符.exe
+F:\c++\占位符\占位符\bin\Debug\占位符.pdb
+F:\c++\占位符\占位符\obj\Debug\占位符.csprojResolveAssemblyReference.cache
+F:\c++\占位符\占位符\obj\Debug\占位符.exe
+F:\c++\占位符\占位符\obj\Debug\占位符.pdb
